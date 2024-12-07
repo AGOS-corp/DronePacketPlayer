@@ -10,6 +10,7 @@ AddOnSimulator/bin/
 AddOnSimulator/Ocusync_Packets/
 AddOnSimulator/Loop_Packets/
 AddOnSimulator/SpiderShield_Packets/
+AddOnSimulator/ADSB_Packets/
 
 
 # User-specific stuff
